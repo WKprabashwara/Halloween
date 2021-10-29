@@ -1,5 +1,5 @@
-# Responsive Halloween Website <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/jack-o-lantern_1f383.png" width="50px"> | ![GitHub repo size](https://img.shields.io/github/repo-size/WKRPrabashwara/Halloween?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/WKRPrabashwara/Halloween?color=red&label=Last%20commit&logo=damantha&logoColor=green)
-### Responsive Halloween Website 🎃
+# Responsive Halloween Website <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/jack-o-lantern_1f383.png" width="45px"> | ![GitHub repo size](https://img.shields.io/github/repo-size/WKRPrabashwara/Halloween?label=Repo%20Size) ![Last Commit](https://img.shields.io/github/last-commit/WKRPrabashwara/Halloween?color=red&label=Last%20commit&logo=damantha&logoColor=green)
+### Responsive Halloween Website  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/facebook/304/jack-o-lantern_1f383.png" width="30px">
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
